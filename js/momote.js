@@ -11,7 +11,7 @@ frm.addEventListener("submit",(e)=>{
         code.innerHTML = "BRUNO NASCIMENTO SANTIAGO(fofoso)"
         desc.innerHTML = "DESCRIÇÂO: Estudante de TI, e ama programar e ficar com a namorada \n "
         hobby.innerHTML = "HOBBY : Programar,cozinhar,ler e sentir saudades da mo dele(Isabelly Kely)"
-        img.setAttribute("src","js/bruno.jpg")
+        img.setAttribute("src","js/bruno.png")
         
         video.innerText = "Homenagem de fofoso"
     }else{
