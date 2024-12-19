@@ -26,6 +26,15 @@ const definirMomo = (momo) =>{//definir momote
         img.src = ("img/Isabelly.png")
 
          video.innerText = ""
+    
+    }else if (momo.toUpperCase()=="MOMOTE"){//momo momote
+        desc.innerHTML =""
+        hobby.innerHTML = ""
+        img.src = ("")
+        code.innerHTML = "MOMOTE: Código secreto encontrado"
+        video.innerText = "Ver surpresa"
+        video.href = ("momoterec.html")
+
     } else{
         code.innerText = "Nome Invalido, quem é esse?😒"}
     }
