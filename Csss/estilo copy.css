@@ -22,3 +22,8 @@ img{
     width: normal;
     height: normal;
 }
+footer{
+    font-style: italic;
+    text-align: center;
+    color: rgb(169, 21, 154);
+}
