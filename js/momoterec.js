@@ -7,6 +7,6 @@ const cita = document.querySelector("#cita")
 frm.addEventListener("submit",(e)=>{
     e.preventDefault()
     presente.className= "ocultar"
-    resp.innerHTML= `<i>"Mas ela não é uma rosa comum,\n é a tua rosa foi o tempo que perdeste com a tua rosa \nque fez a tua rosa tão importante,tua rosa é entre outras a unica no mundo e deves cuida-la"</i>`
+    resp.innerHTML= `<i>"Mas ela não é uma rosa comum,\n é a tua rosa foi o tempo que perdeste com a tua rosa \nque fez a tua rosa tão importante,\ntua rosa é entre outras a unica no mundo e deves cuida-la"</i>`
     cita.innerText= "Pequeno Princípe"
 })
